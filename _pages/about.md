@@ -59,7 +59,7 @@ Conference Papers
    Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He.  
    NeurIPS 2023.
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), and more details on the [Publications](/publications/) page.
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), and more details on the [Publications]({{ site.baseurl }}/publications/) page.
 
 Skills
 ======
